@@ -11,3 +11,6 @@
 *.la
 *.a
 build
+
+# ignore mac specific files
+.DS_Store
